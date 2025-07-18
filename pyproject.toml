@@ -262,3 +262,7 @@ skip = '.git*,*.svg,*.lock,*.min.*'
 check-hidden = true
 # ignore-regex = ''
 # ignore-words-list = ''
+
+[[tool.uv.index]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+default = true
