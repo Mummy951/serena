@@ -217,7 +217,7 @@ pylint.html
 
 tmp/
 
-.serena/
+# .serena/
 .vscode/
 
 # Claude settings
